@@ -6,7 +6,7 @@ public class ScientificCalculator {
 		// TODO Auto-generated constructor stub
 	}
 	public int add(int x, int y){
-		return x-y;
+		return x+y;
 	}
 	/**
 	 * @param args
